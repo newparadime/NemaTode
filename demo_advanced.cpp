@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include <fstream>
-#include <nmeaparse/nmea.h>
+#include <nmea.h>
 
 
 
