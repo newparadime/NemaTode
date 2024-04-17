@@ -11,7 +11,7 @@
 #define NMEAPARSER_H_
 
 
-#include <NemaTode_Event.h>
+#include "NemaTode_Event.h"
 #include <string>
 #include <functional>
 #include <unordered_map>

@@ -11,7 +11,7 @@
 #define NMEACOMMAND_H_
 
 #include <string>
-#include <NemaTode_NMEAParser.h>
+#include "NemaTode_NMEAParser.h"
 
 namespace nmea {
 

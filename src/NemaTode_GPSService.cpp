@@ -8,8 +8,8 @@
  */
 
 
-#include <NemaTode_GPSService.h>
-#include <NemaTode_NumberConversion.h>
+#include "NemaTode_GPSService.h"
+#include "NemaTode_NumberConversion.h"
 
 #include <iostream>
 #include <cmath>

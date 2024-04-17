@@ -7,8 +7,8 @@
  *  See the license file included with this source.
  */
 
-#include <NemaTode_NMEAParser.h>
-#include <NemaTode_NumberConversion.h>
+#include "NemaTode_NMEAParser.h"
+#include "NemaTode_NumberConversion.h"
 #include <sstream>
 #include <iostream>
 #include <algorithm>

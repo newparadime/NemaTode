@@ -13,9 +13,9 @@
 #include <string>
 #include <chrono>
 #include <functional>
-#include <NemaTode_GPSFix.h>
-#include <NemaTode_NMEAParser.h>
-#include <NemaTode_Event.h>
+#include "NemaTode_GPSFix.h"
+#include "NemaTode_NMEAParser.h"
+#include "NemaTode_Event.h"
 
 namespace nmea {
 

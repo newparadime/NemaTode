@@ -7,7 +7,7 @@
  *  See the license file included with this source.
  */
 
-#include <NemaTode_NMEACommand.h>
+#include "NemaTode_NMEACommand.h"
 #include <iomanip>
 #include <sstream>
 
