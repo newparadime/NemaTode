@@ -1,5 +1,5 @@
 /*
- * NMEAParser.h
+ * NemaTode_NMEAParser.h
  *
  *  Created on: Aug 12, 2014
  *      Author: Cameron Karlsson
@@ -11,7 +11,7 @@
 #define NMEAPARSER_H_
 
 
-#include <Event.h>
+#include <NemaTode_Event.h>
 #include <string>
 #include <functional>
 #include <unordered_map>

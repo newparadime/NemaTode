@@ -1,5 +1,5 @@
 /*
- * GPSFix.h
+ * NemaTode_GPSFix.h
  *
  *  Created on: Jul 23, 2014
  *      Author: Cameron Karlsson

@@ -1,5 +1,5 @@
 /*
- * Event.h
+ * NemaTode_Event.h
  *
  *  Created on: Sep 5, 2014
  *      Author: Cameron Karlsson

@@ -1,5 +1,5 @@
 /*
- * GPSService.h
+ * NemaTode_GPSService.h
  *
  *  Created on: Aug 14, 2014
  *      Author: Cameron Karlsson
@@ -13,9 +13,9 @@
 #include <string>
 #include <chrono>
 #include <functional>
-#include <GPSFix.h>
-#include <NMEAParser.h>
-#include <Event.h>
+#include <NemaTode_GPSFix.h>
+#include <NemaTode_NMEAParser.h>
+#include <NemaTode_Event.h>
 
 namespace nmea {
 

@@ -1,5 +1,5 @@
 /*
- * NMEACommand.h
+ * NemaTode_NMEACommand.h
  *
  *  Created on: Sep 8, 2014
  *      Author: Cameron Karlsson
@@ -11,7 +11,7 @@
 #define NMEACOMMAND_H_
 
 #include <string>
-#include <NMEAParser.h>
+#include <NemaTode_NMEAParser.h>
 
 namespace nmea {
 

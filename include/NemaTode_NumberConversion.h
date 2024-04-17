@@ -1,5 +1,5 @@
 /*
- * NumberConversion.h
+ * NemaTode_NumberConversion.h
  *
  *  Created on: Aug 14, 2014
  *      Author: Cameron Karlsson
